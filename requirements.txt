@@ -6,3 +6,4 @@ python-dotenv
 openai
 langchain-deepseek
 gradio
+# pip install playwright lxml langchain_community beautifulsoup4 reportlab
